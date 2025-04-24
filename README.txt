@@ -1,5 +1,5 @@
 
-Team Name: Bang Bang 
+Team Name: Bang Bang Group Number 27
 Team Members: Vedant Punit - vvp16@pitt.edu Jason Lanka - jal643@pitt.edu
 
 Datasets:
